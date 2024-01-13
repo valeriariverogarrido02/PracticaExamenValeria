@@ -1,0 +1,27 @@
+body { 
+  background-color:#C5DABA; 
+  font-family: sans-serif; 
+  text-align: justify; 
+  margin:  0em 5em;/*sup,inf,izqdo,der*/
+  border:red 2px solid; 
+}
+
+h1 { 
+  color: #A0A0A0;
+  text-align: center; 
+  text-transform: uppercase;
+  margin: 1em 5em; 
+  border:blue 1px solid; 
+}
+
+p { 
+  background-color: #E2D0AB; 
+  border: #E9A568 2px dashed; 
+  font-style: oblique;
+  height: 3em; 
+  margin: 20px 3em; 
+  padding: 10px; 
+   
+}
+
+
